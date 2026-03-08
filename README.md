@@ -26,8 +26,7 @@ Ubuntu Server • Nginx • Docker
 ## GITHUB METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anam-jafar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anam-jafar&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" width="48%" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anam-jafar&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ---
