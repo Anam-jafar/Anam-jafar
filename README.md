@@ -4,7 +4,7 @@
 
 ### Software Engineer • Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&width=700&lines=Multimodal+AI+%7C+LLM+Systems+%7C+Behavioral+Intelligence;Production+ML+%7C+Voice+AI+%7C+Personalization;Building+PRISM" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=F711D7&center=true&width=435&lines=Software+Developer+%7C+AI+Integration+%7C+ERP%2C+EMR%2C+CRM+Systems;Building+scalable+systems+" alt="Typing SVG" /></a>
 
 </div>
 
