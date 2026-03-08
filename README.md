@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Anam&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anam%20Ibn%20Jafar" width="100%"/>
 
 ### Software Engineer • Backend Engineer
 
